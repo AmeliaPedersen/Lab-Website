@@ -1,0 +1,13 @@
+img {
+  height: 10 rem;
+  width: 10 rem;
+  object-fit: fill;
+}
+
+#spider-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1;
+  justify-content: center;
+  align-items: center;
+}
